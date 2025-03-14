@@ -8,6 +8,7 @@ Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une exper
 - 🌟 Je travaille actuellement sur **mes projet web**.
 - 📚 J'apprends en ce moment **à The Hacking Project**.
 - 📫 Contactez-moi via **linkedin** : https://www.linkedin.com/in/samuel-chauche/
+- ⏱️ Tous mes projets sont développé en une journée ou deux. 
 
 ---
 
