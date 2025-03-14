@@ -8,7 +8,16 @@ Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une exper
 - 🌟 Je travaille actuellement sur **mes projet web**.
 - 📚 J'apprends en ce moment **à The Hacking Project**.
 - 📫 Contactez-moi via **linkedin** : https://www.linkedin.com/in/samuel-chauche/
-- ⏱️ Tous mes projets sont développé en une journée ou deux. 
+
+
+---
+
+## 🚀 Mes repo
+- ⏱️ Tous mes projets sont développé en une journée ou deux.
+- **Cat-Lics** : Développé en une semaine lors de ma formation Fullstack à The Hacking Project, ce site permet d'acheter des photos de chatons et de profiter d'une interface interactive.
+- **MiniJeu** : Une sorte de Battle Royale dans le terminal.
+- **MonPremierKitUI**
+
 
 ---
 
