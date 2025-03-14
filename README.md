@@ -1,20 +1,20 @@
-# 👋 Bienvenue sur mon profil !
+#  Bienvenue sur mon profil !
 
-Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une expertise en **Ruby on Rails**, et toujours curieux d'explorer de nouvelles technologies.
+👋Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une expertise en **Ruby on Rails**, et toujours curieux d'explorer de nouvelles technologies.
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 - 📚 Je suis actuellement en formation **à The Hacking Project**.
 - 📫 Contactez-moi via **linkedin** : https://www.linkedin.com/in/samuel-chauche/
 
 
 ---
 
-## 🚀 Mes repo
-- **Cat-Lics** : Développé en une semaine lors de ma formation Fullstack à The Hacking Project, ce site permet d'acheter des photos de chatons et de profiter d'une interface interactive.
-- **MiniJeu** : Une sorte de Battle Royale dans le terminal.
-- **MonPremierKitUI**
+## Mes repo
+- 😻**Cat-Lics** : Développé en une semaine lors de ma formation Fullstack à The Hacking Project, ce site permet d'acheter des photos de chatons et de profiter d'une interface interactive.
+- 🕹️**MiniJeu** : Une sorte de Battle Royale dans le terminal.
+- 📦**MonPremierKitUI**
 - ⏱️ Tous mes projets sont **développés en une journée ou deux.**
 
 
