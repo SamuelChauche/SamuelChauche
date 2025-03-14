@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur le profil de Samuel Chauche !
+# 👋 Bienvenue sur mon profil !
 
 Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une expertise en **Ruby on Rails**, et toujours curieux d'explorer de nouvelles technologies.
 
