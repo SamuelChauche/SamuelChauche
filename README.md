@@ -21,7 +21,7 @@ Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une exper
 ---
 
 ## 📈 Statistiques GitHub
-![Statistiques GitHub de Samuel Chauche(https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&count_private=true&theme=radical)
+![Statistiques GitHub de Samuel Chauche](https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&count_private=true&theme=radical)
 
 ---
 
