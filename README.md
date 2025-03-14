@@ -13,7 +13,7 @@ Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une exper
 ---
 
 ## 🚀 Mes repo
-- ⏱️ Tous mes projets sont développé en une journée ou deux.
+- ⏱️ Tous mes projets sont **développés en une journée ou deux.**
 - **Cat-Lics** : Développé en une semaine lors de ma formation Fullstack à The Hacking Project, ce site permet d'acheter des photos de chatons et de profiter d'une interface interactive.
 - **MiniJeu** : Une sorte de Battle Royale dans le terminal.
 - **MonPremierKitUI**
