@@ -30,9 +30,12 @@
 ---
 
 ## 📈 Statistiques GitHub
-![SamuelChauche's Stats](https://github-readme-stats.vercel.app/api?username=SamuelChauche&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
 
 ![SamuelChauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelChauche&theme=flag-india&show_icons=true&hide_border=false&layout=compact)
+
+![SamuelChauche's Stats](https://github-readme-stats.vercel.app/api?username=SamuelChauche&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
+
+
 
 ---
 
