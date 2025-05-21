@@ -14,7 +14,7 @@
 ## Mes repo
 - 😻**Cat-Lics** : Développé en une semaine lors de ma formation Fullstack à The Hacking Project, ce site permet d'acheter des photos de chatons et de profiter d'une interface interactive.
 - 🕹️**MiniJeu** : Une sorte de Battle Royale dans le terminal.
-- 📦**MonPremierKitUI**
+- 📦**API_Velib** : Une carte interactive mise à jour en temps réél via une API, avec une vue de la météo sur les 8 prochaines heures.
 - ⏱️ Tous mes projets sont **développés en une journée ou deux.**
 
 
