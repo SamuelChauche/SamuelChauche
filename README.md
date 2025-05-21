@@ -1,6 +1,6 @@
 #  Bienvenue sur mon profil !
 
-👋Je suis un développeur passionné par **Ruby, Javascript, CSS**, avec une expertise en **Ruby on Rails**, et toujours curieux d'explorer de nouvelles technologies.
+👋Je suis un développeur passionné par le **Web3**, avec une expertise en **Ruby on Rails, Javascript, Html/CSS**, je cherche sans cesse à appronfondir mes connaissances. 
 
 ---
 
