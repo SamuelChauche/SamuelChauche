@@ -1,45 +1,43 @@
-#  Bienvenue sur mon profil !
+# **👋 Hey there! I'm Samuel – Web3 Dev & Fullstack Builder**
 
-👋Je suis un développeur passionné par le **Web3**, avec une expertise en **Ruby on Rails, Javascript, Html/CSS**, je cherche sans cesse à appronfondir mes connaissances. 
-
----
-
-## À propos de moi
-- 📚 Je suis actuellement en formation **à The Hacking Project**.
-- 📫 Contactez-moi via **linkedin** : https://www.linkedin.com/in/samuel-chauche/
-
+**Passionate about decentralized tech** with expertise in **Ruby on Rails, JavaScript, HTML/CSS**. Always learning, always building.
 
 ---
 
-## Mes repo
-⏱️ Tous mes projets sont **développés en une journée ou deux :**
-- 😻**Cat-Lics** : Développé en une semaine lors de ma formation Fullstack à The Hacking Project, ce site permet d'acheter des photos de chatons et de profiter d'une interface interactive.
-- 🕹️**MiniJeu** : Une sorte de Battle Royale dans le terminal.
-- 🚲**API_Velib** : Une carte interactive mise à jour en temps réél via une API, avec une vue de la météo sur les 8 prochaines heures.
-- 🎥**Movie-List** : Une moteur de recherche de film connecté directement à l'API OMDb.
-
-
+## **🚀 About Me**
+- 💡 **Fullstack Dev in training** @ The Hacking Project
+- 🌍 **Future Web3 Builder** – Let’s shape the decentralized future!
+- 📩 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/samuel-chauche/)
 
 ---
 
-## ✨ Technologies et outils
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&)
-![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+## **💻 My Projects (Built Fast, Built Smart)**
+*(Mostly 1-2 day challenges, but with impact!)*
+
+- **🐱 Cat-Lics** – A fun e-commerce site for cat lovers (built in a week!)
+- **🎮 MiniJeu** – Terminal-based Battle Royale (because why not?)
+- **🚲 API_Velib** – Real-time bike-sharing map + weather forecast
+- **🎬 Movie-List** – Search engine powered by OMDb API
+
+*(More coming soon!)*
 
 ---
 
-## 📈 Statistiques GitHub
-
-![SamuelChauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelChauche&theme=flag-india&show_icons=true&hide_border=false&layout=compact)
-
-![SamuelChauche's Stats](https://github-readme-stats.vercel.app/api?username=SamuelChauche&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
-
-
+## **⚡ Tech Stack**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
 
-#### Merci et à bientôt ! 😊
+## **📊 GitHub Stats**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelChauche&theme=dark&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelChauche&theme=dark&hide_border=true&count_private=true)
 
+---
+
+### **👋 Let’s connect & build the future!** 🚀
