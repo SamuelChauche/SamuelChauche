@@ -1,4 +1,4 @@
-# **👋 Hey there! I'm Samuel – Web3 Dev & Fullstack Builder**
+# **Web3 Dev & Fullstack Builder**
 
 **Passionate about decentralized tech** with expertise in **React**. Always learning, always building.
 
