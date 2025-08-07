@@ -1,25 +1,13 @@
 # **👋 Hey there! I'm Samuel – Web3 Dev & Fullstack Builder**
 
-**Passionate about decentralized tech** with expertise in **Ruby on Rails, JavaScript, HTML/CSS**. Always learning, always building.
+**Passionate about decentralized tech** with expertise in **React**. Always learning, always building.
 
 ---
 
 ## **🚀 About Me**
-- 💡 **Fullstack Dev in training** @ The Hacking Project
-- 🌍 **Future Web3 Builder** – Let’s shape the decentralized future!
+- 💡 **Fullstack Dev** from The Hacking Project
+- 🌍 **Web3 Builder** – Let’s shape the decentralized future!
 - 📩 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/samuel-chauche/)
-
----
-
-## **💻 My Projects (Built Fast, Built Smart)**
-*(Mostly 1-2 day challenges, but with impact!)*
-
-- **🐱 Cat-Lics** – A fun e-commerce site for cat lovers (built in a week!)
-- **🎮 MiniJeu** – Terminal-based Battle Royale (because why not?)
-- **🚲 API_Velib** – Real-time bike-sharing map + weather forecast
-- **🎬 Movie-List** – Search engine powered by OMDb API
-
-*(More coming soon!)*
 
 ---
 
@@ -38,6 +26,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelChauche&theme=dark&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelChauche&theme=dark&hide_border=true&count_private=true)
 
----
 
-### **👋 Let’s connect & build the future!** 🚀
