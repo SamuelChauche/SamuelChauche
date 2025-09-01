@@ -1,5 +1,6 @@
 # **Web3 Product Designer & Developer**
 **Building the future of decentralized applications** with focus on **user experience** and rapid execution. From concept to deployment.
+
 Member of the FabLab **Intuition.box** - developing next-generation Web3 applications.
 
 ---
