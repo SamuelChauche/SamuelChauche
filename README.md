@@ -41,7 +41,7 @@
 
 ## **📫 Connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-chauche/)
-- 🐦 [Twitter](https://twitter.com/samuel-chauche) 
+- 🐦 [Twitter](https://x.com/Passive_records)
 - 📧 samuel.chauche@gmail.com
 
 ---
