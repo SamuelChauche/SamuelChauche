@@ -48,4 +48,4 @@
 
 ## **📊 GitHub Stats**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelChauche&theme=dark&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelChauche&theme=dark&hide_border=true&count_private=true)
+
