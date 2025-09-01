@@ -1,11 +1,12 @@
 # **Web3 Product Designer & Developer**
-**Building the future of decentralized applications** with focus on **user experience** and **rapid execution**. From concept to deployment.
+**Building the future of decentralized applications** with focus on **user experience** and rapid execution. From concept to deployment.
+Member of the FabLab **Intuition.box** - developing next-generation Web3 applications.
 
 ---
 
 ## **🚀 Current Projects**
-- 🧠 **SofIA** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
-- 🎲 **GuessNet** - Blockchain prediction market built in one weekend ([guessnet.intuition.box](https://guessnet.intuition.box))
+- 🧠 **SofIA** - Browser extension transforming navigation into verifiable knowledge graphs (sofia.intuition.box) ([sofia.intuition.box](https://sofia.intuition.box))
+- 🎲 **GuessNet** - Blockchain prediction market built in one weekend (guessnet.intuition.box) ([guessnet.intuition.box](https://guessnet.intuition.box))
 - 🏆 **Pulse** - Web3 market research platform (48h hackathon)
 
 ---
@@ -26,6 +27,7 @@
 - 🎨 **Product Designer + Developer** - bridging UX and blockchain tech
 - ⚡ **Rapid Prototyper** - from idea to MVP in days, not months  
 - 🌐 **Web3 Specialist** - making decentralized apps actually usable
+- 🏢 **Intuition.box Member** - contributing to cutting-edge Web3 infrastructure
 - 🎓 **THP Graduate** - intensive fullstack development program
 - 📍 **Montpellier, France** - available for remote opportunities
 
