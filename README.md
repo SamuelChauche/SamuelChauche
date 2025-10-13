@@ -1,14 +1,24 @@
 # **Web3 Product Designer & Developer**
 **Building the future of decentralized applications** with focus on **user experience** and **rapid execution**. From concept to deployment.
 
-Member of the FabLab [Intuition.box](https://github.com/intuition-box/) - developing next-generation Web3 applications.
+Member of the FabLab [Intuition.box](https://github.com/intuition-box/) - developing next-generation Web3 applications.  
 Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end Developer & Documentation writer
+
 ---
 
 ## **🚀 Current Projects**
 - 🧠 **[SofIA](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
 - 🎲 **[GuessNet](https://github.com/intuition-box/Guessnet)** - Blockchain prediction market built in one weekend ([guessnet.intuition.box](https://guessnet.intuition.box))
 - 🏆 **[Pulse](https://github.com/intuition-box/Pulse)** - Web3 market research platform (48h hackathon)
+
+---
+
+## **⚡ Tech Stack**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Web3](https://img.shields.io/badge/-Web3-F16822?logo=web3dotjs&logoColor=white&style=flat)
+![Figma](https://img.)
+
 
 ---
 
