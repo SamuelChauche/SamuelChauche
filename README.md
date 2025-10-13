@@ -7,7 +7,7 @@ Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end D
 ---
 
 ## **🚀 Current Projects**
-- 🧠 **[SofIA](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
+- 🧠 **[Sofia](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
 - 🎲 **[GuessNet](https://github.com/intuition-box/Guessnet)** - Blockchain prediction market built in one weekend ([guessnet.intuition.box](https://guessnet.intuition.box))
 - 🏆 **[Pulse](https://github.com/intuition-box/Pulse)** - Web3 market research platform (48h hackathon)
 
