@@ -1,9 +1,9 @@
 # **Web3 Product Designer & Developer**
 **Building the future of decentralized applications** with focus on **user experience** and **rapid execution**. From concept to deployment.
 
-Co-founder of **[Sofia](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
-Member of the FabLab [Intuition.box](https://github.com/intuition-box/) - developing next-generation Web3 applications.  
-Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end Developer & Documentation writer
+- Co-founder of **[Sofia](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
+- Member of the FabLab [Intuition.box](https://github.com/intuition-box/) - developing next-generation Web3 applications.  
+- Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end Developer & Documentation writer
 
 ---
 
