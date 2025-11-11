@@ -11,8 +11,6 @@ Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end D
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?logo=web3dotjs&logoColor=white&style=flat)
-![Figma](https://img.)
-
 
 ---
 
