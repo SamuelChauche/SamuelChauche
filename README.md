@@ -1,15 +1,9 @@
 # **Web3 Product Designer & Developer**
 **Building the future of decentralized applications** with focus on **user experience** and **rapid execution**. From concept to deployment.
 
+Co-founder of **[Sofia](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
 Member of the FabLab [Intuition.box](https://github.com/intuition-box/) - developing next-generation Web3 applications.  
 Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end Developer & Documentation writer
-
----
-
-## **🚀 Current Projects**
-- 🧠 **[Sofia](https://github.com/intuition-box/Sofia)** - Browser extension transforming navigation into verifiable knowledge graphs ([sofia.intuition.box](https://sofia.intuition.box))
-- 🎲 **[GuessNet](https://github.com/intuition-box/Guessnet)** - Blockchain prediction market built in one weekend ([guessnet.intuition.box](https://guessnet.intuition.box))
-- 🏆 **[Pulse](https://github.com/intuition-box/Pulse)** - Web3 market research platform (48h hackathon)
 
 ---
 
@@ -34,20 +28,19 @@ Contributor for [Intuition System](https://github.com/0xIntuition) - Front-end D
 
 ---
 
-## **🎯 About Me**
-- 🎨 **Product Designer + Developer** - bridging UX and blockchain tech
-- ⚡ **Rapid Prototyper** - from idea to MVP in days, not months  
-- 🌐 **Web3 Specialist** - making decentralized apps actually usable
-- 🏢 **Intuition.box Member** - contributing to cutting-edge Web3 infrastructure
-- 🎓 **THP Graduate** - intensive fullstack development program
-- 📍 **Montpellier, France** - available for remote opportunities
+## **About Me**
+- **Product Designer + Developer** - bridging UX and blockchain tech
+- **Rapid Prototyper** - from idea to MVP in days, not months  
+- **Web3 Specialist** - making Dapps actually usable
+- **Intuition.box Member** - contributing to cutting-edge Web3 infrastructure
+- **THP Graduate** - intensive fullstack development program
+- **Montpellier, France** - available for remote opportunities
 
 ---
 
 ## **🏆 Achievements**
 - 🥇 ETH Global Cannes participant - 48h hackathon
-- 📈 5K+ organic reach on product launches
-- ⚡ Complete Web3 app delivered in 1 weekend
+- ⚡ Complete Web3 Dapp delivered in 1 weekend
 - 🎯 Alpha products with real user validation
 
 ---
