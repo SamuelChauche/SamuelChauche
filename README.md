@@ -29,17 +29,17 @@
 
 ---
 
-## **🏆 Achievements**
-- 🥇 ETH Global Cannes participant - 48h hackathon
-- ⚡ Complete Web3 Dapp delivered in 1 weekend
-- 🎯 Alpha products with real user validation
+## **Achievements**
+- ETH Global Cannes participant - 48h hackathon
+- Complete Web3 Dapp delivered in 1 weekend
+- Alpha products with real user validation
 
 ---
 
-## **📫 Connect**
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-chauche/)
-- 🐦 [Twitter](https://x.com/Passive_records)
-- 📧 samuel.chauche@gmail.com
+## **Connect**
+- [LinkedIn](https://www.linkedin.com/in/samuel-chauche/)
+- [Twitter](https://x.com/Passive_records)
+- samuel.chauche@gmail.com
 
 ---
 
